@@ -14,6 +14,7 @@ const About = () => {
 				className="container mx-auto"
 			>
 				<AboutMeBio />
+				
 			</motion.div>
 
 			{/** Counter without paddings */}
