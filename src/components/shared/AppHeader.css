@@ -1,0 +1,9 @@
+@media (min-width: 640px) {
+    @media (min-width: 1536px) {
+        .sm\:container {
+            max-width: 1536px;
+            padding-right: 8rem/* 128px */;
+            padding-left: 6rem /* 128px */;
+        }
+    }
+}
