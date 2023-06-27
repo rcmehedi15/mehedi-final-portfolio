@@ -29,8 +29,8 @@ const About = () => {
 			{/* // skills */}
 			
 
-				<Skills />
 				<Experiences />
+				<Skills />
 				<Education />
 				<Languages />
 				

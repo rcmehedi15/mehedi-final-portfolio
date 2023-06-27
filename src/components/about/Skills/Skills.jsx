@@ -25,8 +25,10 @@ const Skills = () => {
 
     return (
         <div className='container mx-auto text-ternary-dark dark:text-ternary-light text-lg'>
-            <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4'># Skills</h2> <br />
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 ">
+
+            <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4 '>#  <span className='ml-2'>Skills</span></h2> <br />
+            
+            <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-4 ">
                 <div className="flex flex-col w-full ">
                     <h4 className="text-sm pb-4 border-b mb-5 h-max dark:text-white">
                         Programming Languages
@@ -783,7 +785,7 @@ const Skills = () => {
                         </div>
                     </div>
                 </div>
-                
+
             {/* utls  */}
 
                 {/* <div className="flex flex-col w-full">
