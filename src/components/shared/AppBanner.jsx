@@ -59,6 +59,7 @@ const AppBanner = () => {
 						<span className="text-sm sm:text-lg font-general-medium duration-100">
 							My Resume
 						</span>
+						
 					</a>
 				</motion.div>
 			</div>
