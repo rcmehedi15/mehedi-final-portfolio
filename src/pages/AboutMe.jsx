@@ -27,11 +27,7 @@ const About = () => {
 			</motion.div>
 
 			{/* // skills */}
-			<motion.div
-				initial={{ opacity: 0 }}
-				animate={{ opacity: 1, delay: 1 }}
-				exit={{ opacity: 0 }}
-			>
+			
 
 				<Skills />
 				<Experiences />
@@ -42,7 +38,6 @@ const About = () => {
 				<CoCarriculam />
 				<SocialMedia />
 
-			</motion.div>
 
 			
 		</AboutMeProvider>
