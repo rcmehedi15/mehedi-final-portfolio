@@ -28,12 +28,12 @@ const Skills = () => {
 
             <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4 '>#  <span className='ml-2'>Skills</span></h2> <br />
             
-            <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-4 ">
-                <div className="flex flex-col w-full ">
+            <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-2 ml-8 ">
+                <div className="flex flex-col w-full ml-2">
                     <h4 className="text-sm pb-4 border-b mb-5 h-max dark:text-white">
                         Programming Languages
                     </h4>
-                    <div className="flex flex-col">
+                    <div className="flex flex-col ">
                         {/* TypeScript  */}
 
                         {/* <div className="flex items-center mb-5 last:mb-0">
@@ -88,7 +88,7 @@ const Skills = () => {
                             </div>
                             <p className="text-sm flex-1 px-4 dark:text-white">TypeScript</p>
                         </div> */}
-                        <div className="flex items-center mb-5 last:mb-0">
+                        <div className="flex items-center  mb-5 last:mb-0">
                             <div className="w-5 h-5 relative dark:bg-white">
                                 <span
                                     style={{
@@ -192,7 +192,7 @@ const Skills = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex flex-col w-full">
+                <div className="flex flex-col w-full ml-2">
                     <h4 className="text-sm border-b pb-4 mb-5 h-max dark:text-white">
                         Frontend
                     </h4>
@@ -352,7 +352,7 @@ const Skills = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex flex-col w-full">
+                <div className="flex flex-col w-full ml-2">
                     <h4 className="text-sm border-b pb-4 mb-5 h-max dark:text-white">
                         User Interface
                     </h4>
@@ -563,7 +563,7 @@ const Skills = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex flex-col w-full">
+                <div className="flex flex-col w-full ml-2">
                     <h4 className="text-sm border-b pb-4 mb-5 h-max dark:text-white">
                         Backend
                     </h4>
@@ -674,7 +674,7 @@ const Skills = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex flex-col w-full">
+                <div className="flex flex-col w-full ml-2">
                     <h4 className="text-sm border-b pb-4 mb-5 h-max dark:text-white">
                         Database
                     </h4>
@@ -948,7 +948,7 @@ const Skills = () => {
                         </div>
                     </div>
                 </div> */}
-                <div className="flex flex-col w-full">
+                <div className="flex flex-col w-full ml-2">
                     <h4 className="text-sm border-b pb-4 mb-5 h-max dark:text-white">
                         Version Control
                     </h4>
