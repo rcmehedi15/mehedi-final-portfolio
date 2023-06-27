@@ -1,9 +1,7 @@
 import profileImage from '../../images/profile.jpeg';
 import { useContext } from 'react';
 import AboutMeContext from '../../context/AboutMeContext';
-import Skills from './Skills/Skills';
-import Experiences from './Experience/Experiences';
-import Education from './Education/Education';
+
 
 const AboutMeBio = () => {
 	const { aboutMe } = useContext(AboutMeContext);
@@ -13,10 +11,9 @@ const AboutMeBio = () => {
 
 			<div className="w-full sm:w-1/4 mb-7 sm:mb-0">
 				<img src={profileImage} className="rounded-lg w-full" alt="" />
-				{/* skills  */}
-				<Skills />
-				<Experiences />
-				<Education />
+				
+				
+
 			</div>
 
 			<div className="font-general-regular w-full sm:w-3/4 text-left">

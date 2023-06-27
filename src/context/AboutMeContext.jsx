@@ -5,6 +5,10 @@ import { clientsData as clientsDataJson } from '../data/clientsData';
 import { aboutMeSkills } from '../data/aboutMeSkills';
 import { aboutMeExperience } from '../data/aboutMeExperience';
 import { aboutMeEducation } from '../data/aboutMeEducation';
+import { aboutMeLanguages } from '../data/aboutMeLanguages';
+import { aboutMeSocialMedia } from '../data/aboutMeSocialMedia';
+import { aboutMeProfessionalCourses } from '../data/aboutMeProfessionalCourses';
+import { aboutMeCoCarriculam } from '../data/aboutMeCoCarriculam';
 
 const AboutMeContext = createContext();
 
@@ -13,6 +17,10 @@ export const AboutMeProvider = ({ children }) => {
 	const [aboutSkills, setAboutSkills] = useState(aboutMeSkills)
 	const [aboutExperience, setAboutExperience] = useState(aboutMeExperience)
 	const [aboutEducation, setAboutEducation] = useState(aboutMeEducation)
+	const [aboutLanguages, setAboutLanguages] = useState(aboutMeLanguages)
+	const [aboutSocialMedia, setAboutSocialMedia] = useState(aboutMeSocialMedia)
+	const [aboutProfessionalCourses, setAboutProfessionalCourses] = useState(aboutMeProfessionalCourses)
+	const [aboutCoCarriculam, setAboutCoCarriculam] = useState(aboutMeCoCarriculam)
 
 
 	const clientsHeading = clientsPageHeading;
@@ -30,9 +38,21 @@ export const AboutMeProvider = ({ children }) => {
 
 				aboutExperience,
 				setAboutExperience,
-				
+
 				aboutEducation,
-				setAboutEducation
+				setAboutEducation,
+
+				aboutLanguages,
+				setAboutLanguages,
+
+				aboutSocialMedia,
+				setAboutSocialMedia,
+
+				aboutProfessionalCourses,
+				setAboutProfessionalCourses,
+
+				aboutCoCarriculam,
+				setAboutCoCarriculam
 			}}
 		>
 			{children}
