@@ -32,11 +32,10 @@ const About = () => {
 
 				<Experiences />
 				<Skills />
-				<Education />
-				<Languages />
-				
 				<ProfessionalCourses />
 				<CoCarriculam />
+				<Languages />
+				<Education />
 				<SocialMedia />
 				<Contact />
 
