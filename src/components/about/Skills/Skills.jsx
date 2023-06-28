@@ -510,7 +510,7 @@ const Skills = () => {
                             </div>
                             <p className="text-sm flex-1 px-4 dark:text-white">CSS</p>
                         </div>
-                        <div className="flex items-center mb-5 last:mb-0">
+                        {/* <div className="flex items-center mb-5 last:mb-0">
                             <div className="w-5 h-5 relative dark:bg-white">
                                 <span
                                     style={{
@@ -560,7 +560,7 @@ const Skills = () => {
                                 </span>
                             </div>
                             <p className="text-sm flex-1 px-4 dark:text-white">Sass</p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className="flex flex-col w-full ml-2">
