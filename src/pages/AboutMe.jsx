@@ -7,6 +7,7 @@ import Languages from '../components/about/Languages/Languages';
 import ProfessionalCourses from '../components/about/ProfessionalCourses/ProfessionalCourses';
 import CoCarriculam from '../components/about/CoCarriculam/CoCarriculam';
 import SocialMedia from '../components/about/SocialMedia/SocialMedia';
+import Contact from '../components/about/Contact/Contact';
 
 // import AboutCounter from '../components/about/AboutCounter';
 // import AboutClients from '../components/about/AboutClients';
@@ -37,6 +38,7 @@ const About = () => {
 				<ProfessionalCourses />
 				<CoCarriculam />
 				<SocialMedia />
+				<Contact />
 
 
 			

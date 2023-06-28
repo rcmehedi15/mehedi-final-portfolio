@@ -8,12 +8,12 @@ const Experiences = () => {
     return (
         <div className='container mx-auto'>
 
-            <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4 '>#  <span className='ml-2'>Experiance</span></h2> <br />
+            <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4 '>#  <span className='ml-2'>Work Experiance 👨‍💼</span></h2> <br />
 
             <ul className="w-full">
 
                 <li className="w-full mb-8 flex ">
-                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">2. </h5>
+                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">3. </h5>
                     <div className="flex-1 ml-8">
                       
                             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
@@ -34,7 +34,7 @@ const Experiences = () => {
                 </li>
                
               <li className="w-full mb-8 flex ">
-                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">1. </h5>
+                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">2. </h5>
                     <div className="flex-1 ml-8">
                       
                             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
@@ -43,6 +43,27 @@ const Experiences = () => {
                             <span className="w-full text-xl   mb-4 text-ternary-dark dark:text-ternary-light flex items-center gap-2">
                                 <BiSolidShoppingBagAlt />
                                 Travel Til Dawn | South California, USA | (July 2021 – Aug 2022)
+                            </span>
+                      
+                        <p
+                            className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light"
+
+                        >
+                           Assisting in social media post design, website maintenance, video editing and marketing and providing guidance on various business development issues
+                        </p>
+                    </div>
+                </li>
+               
+                <li className="w-full mb-8 flex ">
+                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">1. </h5>
+                    <div className="flex-1 ml-8">
+                      
+                            <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
+                            Full Stack Web Developer And Graphic Designer (Remote)
+                            </h5>
+                            <span className="w-full text-xl   mb-4 text-ternary-dark dark:text-ternary-light flex items-center gap-2">
+                                <BiSolidShoppingBagAlt />
+                                Fiverr - Upwork | World Wide | (July 2019 – Present)
                             </span>
                       
                         <p

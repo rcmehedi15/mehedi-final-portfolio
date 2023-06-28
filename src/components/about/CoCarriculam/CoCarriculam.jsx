@@ -7,7 +7,7 @@ const CoCarriculam = () => {
     return (
         <div className='container mx-auto'>
 
-            <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4 '>#  <span className='ml-2'> Co-Carriculam Activitics</span></h2> <br />
+            <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4 '>#  <span className='ml-2'> Co-Carriculam Activitics ✨</span></h2> <br />
 
             <ul className="w-full">
 
