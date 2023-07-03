@@ -105,7 +105,7 @@ const Project = () => {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
                         <div className="projects_container" data-aos="fade-right">
                             <div className="project">
                                 <div className="project_videocontainer">
