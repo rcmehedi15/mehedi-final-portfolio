@@ -16,8 +16,8 @@ import {
 
 const Project = () => {
     return (
-        <div >
-            <>
+        <>
+            <div className="container mx-auto">
                 <div className="section">
                     <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4'>🎗<span className='ml-2'> Projects </span></h2> <br />
                     <div className="allProjects">
@@ -36,9 +36,10 @@ const Project = () => {
                                     <p style={{ textAlign: 'left' }}>
                                         <li>Product Buy and Selling</li>
                                         <li>Product Managment System</li>
-                                        <li>Without Login No Purchase any Product</li>
-
+                                        <li>Without Login No Purchase Product</li>
+                                   
                                     </p>
+                                    <span className="techColor">Technology Used </span><p>HTML,CSS,Tailwincss,React Js,Firebase,Express Js,MongoDB</p> <br />
 
                                     <div>
                                         <a
@@ -63,7 +64,48 @@ const Project = () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="projects_container" data-aos="fade-right">
+                            <div className="project">
+                                <div className="project_videocontainer">
+                                    <div>
+                                        <img
+                                            src="https://i.ibb.co/MD0bkmg/smhunt.jpg"
+                                            alt="Tech Blogger"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="project_information">
+                                    <h2>Tech Blogger</h2>
+                                    <p style={{ textAlign: 'left' }}>
+                                        <li>Reading New Tech News</li>
+                                        <li>Reading Time Count</li>
+                                        <li>Blog Reading Bookmark</li>
+                                    </p>
+                                    <span className="techColor ">Technology Used </span><p>HTML,Bootstrap 5,React Js </p> <br /> <br />
 
+                                    <div>
+                                        <a
+                                            href="https://sm-hunt-blog-react-js.netlify.app/"
+                                            target="_blank"
+                                            rel="noreferrer"
+                                        >
+                                            <span type="button" className="btns onbt onbt">
+                                                Live
+                                            </span>
+                                        </a>
+                                        <a
+                                            href="https://github.com/rcmehedi15/SM-Hunt-Blog-React-Js"
+                                            target="_blank"
+                                            rel="noreferrer"
+                                        >
+                                            <span type="button" className="btnSrc onbt">
+                                                Source Code
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div className="projects_container" data-aos="fade-right">
                             <div className="project">
                                 <div className="project_videocontainer">
@@ -78,6 +120,7 @@ const Project = () => {
                                         <li>Popular Classes Define</li>
                                         <li>Admin User Managment</li>
                                     </p>
+                                    <span className="techColor">Technology Used </span><p>HTML,CSS,Tailwincss,React Js,Firebase,Express Js,MongoDB</p> <br />
 
                                     <div>
                                         <a
@@ -104,52 +147,12 @@ const Project = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="projects_container" data-aos="fade-right">
-                            <div className="project">
-                                <div className="project_videocontainer">
-                                    <div>
-                                        <img
-                                            src="https://i.ibb.co/MD0bkmg/smhunt.jpg"
-                                            alt="Tech Blogger"
-                                        />
-                                    </div>
-                                </div>
-                                <div className="project_information">
-                                    <h2>Tech Blogger</h2>
-                                    <p style={{ textAlign: 'left' }}>
-                                        <li>Reading New Tech News</li>
-                                        <li>Reading Time Count</li>
-                                        <li>Blog Reading Bookmark</li>
-                                    </p>
-
-                                    <div>
-                                        <a
-                                            href="https://sm-hunt-blog-react-js.netlify.app/"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >
-                                            <span type="button" className="btns onbt onbt">
-                                                Live
-                                            </span>
-                                        </a>
-                                        <a
-                                            href="https://github.com/rcmehedi15/SM-Hunt-Blog-React-Js"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >
-                                            <span type="button" className="btnSrc onbt">
-                                                Source Code
-                                            </span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
 
-            </>
-        </div>
+            </div>
+        </>
     );
 };
 

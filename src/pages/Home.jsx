@@ -5,13 +5,14 @@ import Project from './Project/Project';
 
 const Home = () => {
 	return (
-		<div className="container mx-auto">
-			<AppBanner></AppBanner>
-
-			<Project />
-
-			
-		</div>
+		<>
+			<div className="container mx-auto">
+				<AppBanner></AppBanner>
+			</div>
+			<div>
+				<Project />
+			</div>
+		</>
 	);
 };
 
