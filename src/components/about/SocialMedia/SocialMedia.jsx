@@ -14,7 +14,7 @@ const SocialMedia = () => {
                     <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>
                     <div className="flex-1 ml-8">
                         <h5 className="w-full text-2xl text-ternary-dark dark:text-ternary-light">
-                            <a href="https://www.linkedin.com/in/rcmehedi15/" target="_blank" rel="noreferrer" >LinkedIn</a>
+                            <a  href="https://www.linkedin.com/in/rcmehedi15/" target="_blank" rel="noreferrer" >LinkedIn</a>
                         </h5>
                     </div>
                 </li>

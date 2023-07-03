@@ -1,7 +1,7 @@
 a{
     color: #6ec5ff;
 }
-a:hover{
+socialLinkAnchor:hover{
 
     text-decoration:underline;
 }
