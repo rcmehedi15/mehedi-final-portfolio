@@ -1,7 +1,5 @@
 import { useState, createContext } from 'react';
 import { aboutMeData } from '../data/aboutMeData';
-import { clientsHeading as clientsPageHeading } from '../data/clientsData';
-import { clientsData as clientsDataJson } from '../data/clientsData';
 import { aboutMeSkills } from '../data/aboutMeSkills';
 import { aboutMeExperience } from '../data/aboutMeExperience';
 import { aboutMeEducation } from '../data/aboutMeEducation';
@@ -22,10 +20,6 @@ export const AboutMeProvider = ({ children }) => {
 	const [aboutProfessionalCourses, setAboutProfessionalCourses] = useState(aboutMeProfessionalCourses)
 	const [aboutCoCarriculam, setAboutCoCarriculam] = useState(aboutMeCoCarriculam)
 
-
-	const clientsHeading = clientsPageHeading;
-
-	const [clientsData, setClientsData] = useState(clientsDataJson);
 
 	return (
 		<AboutMeContext.Provider

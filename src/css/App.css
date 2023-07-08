@@ -5,6 +5,7 @@
 
 body {
 	font-family: 'GeneralSans-Variable';
+	
 }
 
 /* Fonts */
@@ -206,8 +207,8 @@ body {
 
 /* Scroll to top style */
 .scrollToTop {
-	@apply bg-indigo-600;
-	@apply text-white;
+	background-color:  #6366f1;
+	color:  white;
 	position: fixed;
 	width: 100%;
 	align-items: center;
