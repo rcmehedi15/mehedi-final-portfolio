@@ -53,7 +53,7 @@ const AppBanner = () => {
 				>
 					<a
 						target='_blank'
-						href="https://drive.google.com/file/d/17qAyqE0nBFWRmX6ogdsqNV6Hf4i_sZJz/view?usp=sharing"
+						href="https://drive.google.com/file/d/1FkAthUxr4cwDy-KeXQWrcW5AiUe254Un/view?usp=drive_link"
 						className="font-general-medium flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 sm:mb-0 text-lg border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500 text-gray-500 hover:text-white duration-500"
 						aria-label="Download Resume"
 					>
