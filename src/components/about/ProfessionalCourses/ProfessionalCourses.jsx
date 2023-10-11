@@ -10,6 +10,16 @@ const ProfessionalCourses = () => {
         <h2 className='text-4xl font-bold text-ternary-dark dark:text-ternary-light mt-4 '>#  <span className='ml-2'> Professional courses 🚂</span></h2> <br />
 
         <ul className="w-full">
+        <li className="w-full mb-2 flex ">
+                <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>
+                <div className="flex-1 ml-8">
+
+                    <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
+                    CSE Fundamentals with Phitron (Running) | Phitron
+                    </h5>
+
+                </div>
+            </li>
 
             <li className="w-full mb-2 flex ">
                 <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>

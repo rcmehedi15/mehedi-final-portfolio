@@ -12,6 +12,26 @@ const Experiences = () => {
 
             <ul className="w-full">
 
+            <li className="w-full mb-8 flex ">
+                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">3. </h5>
+                    <div className="flex-1 ml-8">
+                      
+                            <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
+                            Jr. Software Engineer(ReactJS+Django)
+                            </h5>
+                            <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
+                                <BiSolidShoppingBagAlt />
+                                Secret | Uttara-Dhaka, Bangladesh | (Sep 2023 – Present)
+                            </span>
+                      
+                        <p
+                            className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light"
+
+                        >
+                           Collaborated on responsive design and development resolved browser compatibility issues and maintained internal design systems and troubleshooting.
+                        </p>
+                    </div>
+                </li>
                 <li className="w-full mb-8 flex ">
                     <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">3. </h5>
                     <div className="flex-1 ml-8">
