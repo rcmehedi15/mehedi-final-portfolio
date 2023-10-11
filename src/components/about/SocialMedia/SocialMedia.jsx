@@ -22,6 +22,23 @@ const SocialMedia = () => {
                     <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>
                     <div className="flex-1 ml-8">
                         <h5 className="w-full text-2xl text-ternary-dark dark:text-ternary-light">
+                            <a  href="https://codeforces.com/profile/rcmehedi15" target="_blank" rel="noreferrer" >Codeforces</a>
+                        </h5>
+                    </div>
+                </li>
+                <li className="w-full mb-2 flex ">
+                    <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>
+                    <div className="flex-1 ml-8">
+                        <h5 className="w-full text-2xl text-ternary-dark dark:text-ternary-light">
+                            <a  href="https://www.hackerrank.com/rcmehedi15" target="_blank" rel="noreferrer" >Hacker Rank</a>
+                        </h5>
+                    </div>
+                </li>
+
+                <li className="w-full mb-2 flex ">
+                    <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>
+                    <div className="flex-1 ml-8">
+                        <h5 className="w-full text-2xl text-ternary-dark dark:text-ternary-light">
                             <a href="https://github.com/rcmehedi15" target="_blank" rel="noreferrer" >GitHub</a>
                         </h5>
                     </div>
