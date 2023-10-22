@@ -13,7 +13,7 @@ const Experiences = () => {
             <ul className="w-full">
 
             <li className="w-full mb-8 flex ">
-                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">3. </h5>
+                    <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">4. </h5>
                     <div className="flex-1 ml-8">
                       
                             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
