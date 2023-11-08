@@ -140,7 +140,7 @@ const Skills = () => {
                                     />
                                 </span>
                             </div>
-                            <p className="text-sm flex-1 px-4 dark:text-white">JavaScript</p>
+                            <p className="text-sm flex-1 px-4 dark:text-white">Intermediate JavaScript</p>
                         </div>
                         <div className="flex items-center mb-5 last:mb-0">
                             <div className="w-5 h-5 relative dark:bg-white">
@@ -191,7 +191,7 @@ const Skills = () => {
                                     />
                                 </span>
                             </div>
-                            <p className="text-sm flex-1 px-4 dark:text-white">Python</p>
+                            <p className="text-sm flex-1 px-4 dark:text-white">Intermediate Python</p>
                         </div>
                     </div>
                 </div>
@@ -249,7 +249,7 @@ const Skills = () => {
                                     />
                                 </span>
                             </div>
-                            <p className="text-sm flex-1 px-4 dark:text-white">Next Js</p>
+                            <p className="text-sm flex-1 px-4 dark:text-white">Basic Next Js</p>
                         </div>
                         <div className="flex items-center mb-5 last:mb-0">
                             <div className="w-5 h-5 relative dark:bg-white">
@@ -621,7 +621,7 @@ const Skills = () => {
                                 </span>
                             </div>
                             <p className="text-sm flex-1 px-4 dark:text-white">
-                                Node &amp; Express Js
+                                Basic Node Js &amp; Express Js
                             </p>
                         </div>
                         <div className="flex items-center mb-5 last:mb-0">
@@ -673,7 +673,7 @@ const Skills = () => {
                                     />
                                 </span>
                             </div>
-                            <p className="text-sm flex-1 px-4 dark:text-white">Django</p>
+                            <p className="text-sm flex-1 px-4 dark:text-white">Basic Django</p>
                         </div>
                     </div>
                 </div>
@@ -731,7 +731,7 @@ const Skills = () => {
                                     />
                                 </span>
                             </div>
-                            <p className="text-sm flex-1 px-4 dark:text-white">MongoDB</p>
+                            <p className="text-sm flex-1 px-4 dark:text-white"> Basic MongoDB</p>
                         </div>
                     </div>
                     <div className="flex flex-col">
@@ -784,7 +784,7 @@ const Skills = () => {
                                     />
                                 </span>
                             </div>
-                            <p className="text-sm flex-1 px-4 dark:text-white">MySQL</p>
+                            <p className="text-sm flex-1 px-4 dark:text-white">Basic MySQL</p>
                         </div>
                     </div>
                 </div>

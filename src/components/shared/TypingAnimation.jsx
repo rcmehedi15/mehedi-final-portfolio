@@ -6,7 +6,7 @@ const TypingAnimation = () => {
         <>
             <Typewriter
                 options={{
-                    strings: ["MERN Stack Developer", "Ui Designer", "Self Learner"],
+                    strings: ["MERN Stack Learner", "Ex Graphic Designer", "Self Learner"],
                     autoStart: true,
                     loop: true,
                     deleteSpeed: 5

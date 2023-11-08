@@ -51,7 +51,7 @@ const Experiences = () => {
 
                         >
                            PRC Institution- Barishal,<br />
-                            Passing Year: 2018, Result:  GPA 3.45 out of 5.00
+                            Passing Year: 2018
                         </p>
                     </div>
                 </li>
