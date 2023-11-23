@@ -43,7 +43,14 @@ const SocialMedia = () => {
                         </h5>
                     </div>
                 </li>
-
+                <li className="w-full mb-2 flex ">
+                    <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>
+                    <div className="flex-1 ml-8">
+                        <h5 className="w-full text-2xl text-ternary-dark dark:text-ternary-light">
+                            <a href="https://www.behance.net/MehediDesigner_" target="_blank" rel="noreferrer" >Behance</a>
+                        </h5>
+                    </div>
+                </li>
                 <li className="w-full mb-2 flex ">
                     <h5 className="text-xl   text-ternary-dark dark:text-ternary-light"> - </h5>
                     <div className="flex-1 ml-8">
