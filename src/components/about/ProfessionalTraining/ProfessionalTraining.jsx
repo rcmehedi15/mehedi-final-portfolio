@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
 import AboutMeContext from "../../../context/AboutMeContext";
 
-const ProfessionalCourses = () => {
-  const { aboutProfessionalCourses } = useContext(AboutMeContext);
+const ProfessionalTraining = () => {
+  const { aboutProfessionalTraining } = useContext(AboutMeContext);
 
   return (
     <div className="container mx-auto">
@@ -171,4 +171,4 @@ const ProfessionalCourses = () => {
   );
 };
 
-export default ProfessionalCourses;
+export default ProfessionalTraining;

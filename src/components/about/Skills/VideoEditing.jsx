@@ -112,7 +112,7 @@ const VideoEditing = () => {
                                 />
                             </span>
                         </div>
-                        <p className="text-sm flex-1 px-4 dark:text-white">Filmora</p>
+                        <p className="text-sm flex-1 px-4 dark:text-white">Filmora & Capcut</p>
                     </div>
                     <div className="flex items-center mb-5 last:mb-0">
                         <div className="w-5 h-5 relative dark:bg-white">

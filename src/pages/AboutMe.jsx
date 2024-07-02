@@ -4,7 +4,7 @@ import Skills from '../components/about/Skills/Skills';
 import Experiences from '../components/about/Experience/Experiences';
 import Education from '../components/about/Education/Education';
 import Languages from '../components/about/Languages/Languages';
-import ProfessionalCourses from '../components/about/ProfessionalCourses/ProfessionalCourses';
+import ProfessionalTraining from '../components/about/ProfessionalTraining/ProfessionalTraining';
 import CoCarriculam from '../components/about/CoCarriculam/CoCarriculam';
 import SocialMedia from '../components/about/SocialMedia/SocialMedia';
 import Contact from '../components/about/Contact/Contact';
@@ -32,7 +32,7 @@ const About = () => {
 
 				<Experiences />
 				<Skills />
-				<ProfessionalCourses />
+				<ProfessionalTraining />
 				<CoCarriculam />
 				<Languages />
 				<Education />

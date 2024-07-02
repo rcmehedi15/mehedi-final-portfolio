@@ -5,7 +5,7 @@ import { aboutMeExperience } from '../data/aboutMeExperience';
 import { aboutMeEducation } from '../data/aboutMeEducation';
 import { aboutMeLanguages } from '../data/aboutMeLanguages';
 import { aboutMeSocialMedia } from '../data/aboutMeSocialMedia';
-import { aboutMeProfessionalCourses } from '../data/aboutMeProfessionalCourses';
+import { aboutMeProfessionalTraining } from '../data/aboutMeProfessionalTraining';
 import { aboutMeCoCarriculam } from '../data/aboutMeCoCarriculam';
 
 const AboutMeContext = createContext();
@@ -17,7 +17,7 @@ export const AboutMeProvider = ({ children }) => {
 	const [aboutEducation, setAboutEducation] = useState(aboutMeEducation)
 	const [aboutLanguages, setAboutLanguages] = useState(aboutMeLanguages)
 	const [aboutSocialMedia, setAboutSocialMedia] = useState(aboutMeSocialMedia)
-	const [aboutProfessionalCourses, setAboutProfessionalCourses] = useState(aboutMeProfessionalCourses)
+	const [aboutProfessionalTraining, setAboutProfessionalTraining] = useState(aboutMeProfessionalTraining)
 	const [aboutCoCarriculam, setAboutCoCarriculam] = useState(aboutMeCoCarriculam)
 
 
@@ -42,9 +42,9 @@ export const AboutMeProvider = ({ children }) => {
 				aboutSocialMedia,
 				setAboutSocialMedia,
 
-				aboutProfessionalCourses,
-				setAboutProfessionalCourses,
-
+				aboutProfessionalTraining,
+				setAboutProfessionalTraining,
+ 
 				aboutCoCarriculam,
 				setAboutCoCarriculam
 			}}
