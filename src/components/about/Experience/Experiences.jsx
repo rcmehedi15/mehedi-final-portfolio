@@ -12,6 +12,44 @@ const Experiences = () => {
       </h2>{" "}
       <br />
       <ul className="w-full">
+      <li className="w-full mb-8 flex ">
+          <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">
+            5.{" "}
+          </h5>
+          <div className="flex-1 ml-8">
+            <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
+              Digital Marketing Officer
+            </h5>
+            <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
+              <BiSolidShoppingBagAlt />
+              Ababil Group | Sector 10 ,Uttara -Dhaka,
+              Bangladesh | (January 2024 – June 2024)
+            </span>
+
+            <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
+            ⭐ My Regular Work <br />
+            - Keyword And Competitor Research <br />
+            - Create Content/Copy Writing  <br />
+            - 45+ Company Social Media Post Design <br />
+            - A group of company 45+ Sisters Concern Social Media Management & Post. <br /> 7 (FB, IG, Pinterest, Linkedin, Twitter, TikTok, Youtube) (Like- A4 Admission, Alternative Recruitment Ltd., etc.) <br />
+            - Digital Marketing (Meta Ads, Google Ads, Linkedin Ads etc) <br />
+            - SEO (Semrush, MOZ, Ahrefs ) <br />
+            - WordPress Website Problem Solving <br />
+            - Team Leading & IT Problem Solving <br /> <br />
+
+            --🏁- Most Used -🏁-- <br />
+            Website:: https://ababil.group <br />
+            Fb :: https://www.facebook.com/a4admission <br />
+            https://www.facebook.com/hireandfire.eu <br />
+            https://www.facebook.com/alteduconsult <br />
+            https://www.facebook.com/altrecruitltd <br />
+            https://www.facebook.com/connectionproject.eu <br />
+            https://www.facebook.com/e4education.world01 <br />
+            https://www.facebook.com/cloudni9tech <br />
+            etc 
+            </p>
+          </div>
+        </li>
         <li className="w-full mb-8 flex ">
           <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">
             4.{" "}
@@ -23,18 +61,18 @@ const Experiences = () => {
             </h5>
             <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
               <BiSolidShoppingBagAlt />
-              FASTNETBD | Sector 11, Road -16,House- 03 ,Uttara -Dhaka,
-              Bangladesh | (Sep 2023 – Present)
+              FASTNETBD | Sector 11,Uttara -Dhaka, Bangladesh | SEP 2023 – DEC 2023 || Onsite
             </span>
 
             <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
-            ⭐ The ISP Company Essential My Work <br />
-              - Social Media and Offline Graphic Design <br />
+            ⭐ My Work <br />
+              - Social Media Post Design and Offline Graphic Design <br />
               - Video Making <br />
               - Meta Digital Marketing <br />
               - Attractive SEO Friendly Content Writing <br />
               - Website Up to date and Maintain <br />
-              - Customer Technical Problem Solving <br />- Helping Accountants
+              - Customer Technical Problem Solving <br />
+              - Helping Accountants
             </p>
           </div>
         </li>
@@ -48,20 +86,20 @@ const Experiences = () => {
             </h5>
             <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
               <BiSolidShoppingBagAlt />
-              Divine IT LTD | Sector 10, Road - 12, House - 29 , Uttara-Dhaka,
+              Divine IT LTD | Sector 10,Uttara -Dhaka, Bangladesh | OCT 2022 – DEC 2022 || Onsite
               Bangladesh | (OCT 2022 – DEC 2022)
             </span>
 
             <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
                 
             ⭐ My Work <br />
-              - Teamwork  <br />
-              - Software and Website Problem Solving <br /> 
-              - New Topic Learning <br />
+              - New Topic Learning -As Like Python & Django <br />
               - Company ERP Software solution learning <br />
-              - per day small task complete <br />
-              - task management system Project front-end building <br />
-              - project presentation 
+              - Software and Website Problem Solving <br /> 
+              - Teamworking  <br />
+              - Per day small task complete <br />
+              - Task management system Project front-end building <br />
+              - Project resentation 
             </p>
           </div>
         </li>
@@ -80,11 +118,13 @@ const Experiences = () => {
             </span>
 
             <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
-            ⭐ Assisting in <br />
-              - Social media post design, <br />
+            ⭐ My Work  <br />
+              - Keyword And Competitor Research <br />
+              - Create Content/Copy Writing  <br />
+              - Social media post design & Post <br />
               - Website maintenance, <br />
               - Video editing and <br />
-              - Digital marketing and  <br />
+              - Digital Ads Run  and SEO  <br />
               providing guidance on various business development issues
             </p>
           </div>
@@ -96,11 +136,11 @@ const Experiences = () => {
           </h5>
           <div className="flex-1 ml-8">
             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
-              Full Stack Web Developer And Graphic Designer (Remote)
+              Web Developer(Wordpress/PHP Based Work) And Graphic Designer
             </h5>
             <span className="w-full text-xl   mb-4 text-ternary-dark dark:text-ternary-light flex items-center gap-2">
               <BiSolidShoppingBagAlt />
-              Fiverr - Upwork | World Wide | (July 2020 – Present)
+              Fiverr - Upwork | World Wide | (July 2019 – August 2022(Now Working but Sometime))
             </span>
 
             <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
@@ -109,9 +149,7 @@ const Experiences = () => {
                 - Logo Design <br />
                 - Business card Design <br />
                 - Social Media Post Design <br />
-                - Ads Design <br />
                 - Flyer Design <br />
-                - Brochure Design <br />
                 - Brand identity Design etc <br />
             ⭐ Web Development Service <br />
                 - eCommerce website. <br />
@@ -123,7 +161,7 @@ const Experiences = () => {
                 - Membership website. <br />
                 - Nonprofit website. <br />
                 - Media website. <br />
-                - Website bug solve.  <br />
+                - Website/Cpanel bug solve.  <br />
                 - Custom website build. <br />
             ⭐ Other Service - <br />
                 - FB/Instagram ads managing <br />
