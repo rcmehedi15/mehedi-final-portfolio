@@ -34,8 +34,8 @@ const Experiences = () => {
             - A group of company 45+ Sisters Concern Social Media Management & Post. <br /> 7 (FB, IG, Pinterest, Linkedin, Twitter, TikTok, Youtube) (Like- A4 Admission, Alternative Recruitment Ltd., etc.) <br />
             - Digital Marketing (Meta Ads, Google Ads, Linkedin Ads etc) <br />
             - WordPress Website Problem Solving <br />
-            - Team Leading & IT Problem Solving <br /> <br />
-            - OFF PAGE , ON PAGE & Technical SEO/Google Business Profile Manage  <br />
+            - Team Leading & IT Problem Solving <br />
+            - OFF PAGE , ON PAGE & Technical SEO/Google Business Profile Manage  <br />  <br />
 
             --🏁- Most Used -🏁-- <br />
             Website:: https://ababil.group <br />
@@ -105,7 +105,11 @@ const Experiences = () => {
               - Teamworking  <br />
               - Per day small task complete <br />
               - Task management system Project front-end building <br />
-              - Project resentation 
+              - Project resentation  <br /> <br/>
+
+              --🏁- Website -🏁-- <br />  
+              www.Divineit.net
+              
             </p>
           </div>
         </li>
@@ -131,7 +135,10 @@ const Experiences = () => {
               - Cpanel/Website maintenance, <br />
               - Video editing and <br />
               - Digital Ads Run  and SEO  <br />
-              providing guidance on various business development issues
+              providing guidance on various business development issues <br/> <br />
+
+              --🏁- Website -🏁-- <br />  
+              www.Traveltildawn.com
             </p>
           </div>
         </li>
@@ -173,6 +180,12 @@ const Experiences = () => {
                 - FB/Instagram ads managing <br />
                 - SEO Friendly Content Writing <br />
                 - Website Off PAGE SEO & ON Page & Technical SEO  <br />
+
+                <br/> <br />
+
+              --🏁- Website -🏁-- <br />  
+              www.fiverr.com <br />
+              www.upwork.com
             </p>
           </div>
         </li>
