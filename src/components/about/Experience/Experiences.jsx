@@ -33,9 +33,9 @@ const Experiences = () => {
             - 45+ Company Social Media Post Design <br />
             - A group of company 45+ Sisters Concern Social Media Management & Post. <br /> 7 (FB, IG, Pinterest, Linkedin, Twitter, TikTok, Youtube) (Like- A4 Admission, Alternative Recruitment Ltd., etc.) <br />
             - Digital Marketing (Meta Ads, Google Ads, Linkedin Ads etc) <br />
-            - SEO (Semrush, MOZ, Ahrefs ) <br />
             - WordPress Website Problem Solving <br />
             - Team Leading & IT Problem Solving <br /> <br />
+            - OFF PAGE , ON PAGE & Technical SEO/Google Business Profile Manage  <br />
 
             --🏁- Most Used -🏁-- <br />
             Website:: https://ababil.group <br />
@@ -57,11 +57,11 @@ const Experiences = () => {
           <div className="flex-1 ml-8">
             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
               Graphic Designer | Digital Marketer | Technical Call Support |
-              Website Maintainer
+              Web Developer
             </h5>
             <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
               <BiSolidShoppingBagAlt />
-              FASTNETBD | Sector 11,Uttara -Dhaka, Bangladesh | SEP 2023 – DEC 2023 || Onsite
+              FASTNETBD | Sector 11, Uttara -Dhaka, Bangladesh | SEP 2023 – DEC 2023 || Onsite
             </span>
 
             <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
@@ -70,9 +70,15 @@ const Experiences = () => {
               - Video Making <br />
               - Meta Digital Marketing <br />
               - Attractive SEO Friendly Content Writing <br />
-              - Website Up to date and Maintain <br />
+              - Cpanel/ Website Up to date and Maintain & New Feature Implement <br />
               - Customer Technical Problem Solving <br />
-              - Helping Accountants
+              - Helping Accountants Automation <br /> <br />
+
+              --🏁- Website -🏁-- <br />
+              https://Fastnetbd.com <br />
+              Fb :: https://www.facebook.com/fastnetbd <br />
+              
+              
             </p>
           </div>
         </li>
@@ -86,8 +92,8 @@ const Experiences = () => {
             </h5>
             <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
               <BiSolidShoppingBagAlt />
-              Divine IT LTD | Sector 10,Uttara -Dhaka, Bangladesh | OCT 2022 – DEC 2022 || Onsite
-              Bangladesh | (OCT 2022 – DEC 2022)
+              Divine IT LTD | Sector 10, Uttara -Dhaka, Bangladesh | OCT 2022 – DEC 2022 || Onsite
+              
             </span>
 
             <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
@@ -122,7 +128,7 @@ const Experiences = () => {
               - Keyword And Competitor Research <br />
               - Create Content/Copy Writing  <br />
               - Social media post design & Post <br />
-              - Website maintenance, <br />
+              - Cpanel/Website maintenance, <br />
               - Video editing and <br />
               - Digital Ads Run  and SEO  <br />
               providing guidance on various business development issues
@@ -166,6 +172,7 @@ const Experiences = () => {
             ⭐ Other Service - <br />
                 - FB/Instagram ads managing <br />
                 - SEO Friendly Content Writing <br />
+                - Website Off PAGE SEO & ON Page & Technical SEO  <br />
             </p>
           </div>
         </li>
