@@ -3,3 +3,10 @@
 
 ### Live link
 <a href="https://mehedi-web.netlify.app"> live link </a> 
+
+Install 
+
+-- npm install --global yarn
+-- yarn install
+-- yarn add react-scripts
+-- yarn start

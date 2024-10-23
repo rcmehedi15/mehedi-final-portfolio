@@ -18,7 +18,7 @@ import ts from '../../../assets/skills/ts.png'
 import dj from '../../../assets/skills/dj.png'
 import socket from '../../../assets/skills/socket.png'
 import MySQL from '../../../assets/skills/MySQL.png'
-import Python from '../../../assets/skills/Python.svg'
+import Python from '../../../assets/skills/Python.png'
 import GraphicDesignSkills from './GraphicDesignSkills';
 import VideoEditing from './VideoEditing';
 import DigitalMarketing from './DigitalMarketing';

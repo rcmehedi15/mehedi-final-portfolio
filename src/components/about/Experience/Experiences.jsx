@@ -14,6 +14,37 @@ const Experiences = () => {
       <ul className="w-full">
       <li className="w-full mb-8 flex ">
           <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">
+            6.{" "}
+          </h5>
+          <div className="flex-1 ml-8">
+            <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
+            Digital Marketing & Brand Communication
+            </h5>
+            <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
+              <BiSolidShoppingBagAlt />
+              Assign Realtor Ltd. | Icon Centre, 57/4 Progati Sharani, Dhaka | July 2024 –  Present || Onsite
+            </span>
+
+            <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
+            ⭐ My Work <br />
+            - Keyword And Competitor Research (SEO) 
+            - Create Content/Copy Writing <br />
+            - Company Social Media Post Design <br />
+            - Social Media Management & Post. <br />
+            - Digital Marketing (Meta Ads, Google Ads, Linkedin Ads etc) <br />
+            - React Js + Laravel Project Management  <br />
+            - IT Problem Solving <br /> <br />
+
+              --🏁- Website -🏁-- <br />
+              https://assignrealtor.com/ <br />
+              Fb :: https://www.facebook.com/assignrealtor <br />
+              
+              
+            </p>
+          </div>
+        </li>
+      <li className="w-full mb-8 flex ">
+          <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">
             5.{" "}
           </h5>
           <div className="flex-1 ml-8">

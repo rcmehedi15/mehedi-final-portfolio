@@ -11,7 +11,6 @@ const ProfessionalTraining = () => {
       </h2>{" "}
       <br />
       <ul className="w-full">
-        
       <li className="w-full mb-2 flex ">
           <h5 className="text-xl   text-ternary-dark dark:text-ternary-light">
             {" "}
@@ -19,7 +18,19 @@ const ProfessionalTraining = () => {
           </h5>
           <div className="flex-1 ml-8">
             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
-            Video Editing with Premiere Prp || 10 Minute School
+            Basic To Advanced SEO || WsCube Tech
+            </h5>
+          </div>
+        </li>
+
+      <li className="w-full mb-2 flex ">
+          <h5 className="text-xl   text-ternary-dark dark:text-ternary-light">
+            {" "}
+            -{" "}
+          </h5>
+          <div className="flex-1 ml-8">
+            <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
+            Video Editing with Premiere Pro || 10 Minute School
             </h5>
           </div>
         </li>
@@ -81,7 +92,7 @@ const ProfessionalTraining = () => {
           </h5>
           <div className="flex-1 ml-8">
             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
-              CSE Fundamentals with Phitron (Running) | Phitron
+              CSE Fundamentals with Phitron (4th Batch) | Phitron
             </h5>
           </div>
         </li>
