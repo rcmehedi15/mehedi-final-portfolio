@@ -12,17 +12,32 @@ const Experiences = () => {
       </h2>{" "}
       <br />
       <ul className="w-full">
+          <li className="w-full mb-8 flex ">
+          <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">
+            7.{" "}
+          </h5>
+          <div className="flex-1 ml-8">
+            <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
+            Sr. Executive, Digital Marketing & Brand Communication, Website Maintaince
+            </h5>
+            <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
+              <BiSolidShoppingBagAlt />
+              DOS Asset Development Ltd | SAR Bhaban,Ka-78 Pragati Sarani Main Road, Dhaka  | 1st January 2025 to Present | Onsite
+            </span>
+
+          </div>
+        </li>
       <li className="w-full mb-8 flex ">
           <h5 className="text-2xl  text-ternary-dark dark:text-ternary-light">
             6.{" "}
           </h5>
           <div className="flex-1 ml-8">
             <h5 className="w-full text-2xl   text-ternary-dark dark:text-ternary-light ">
-            Digital Marketing & Brand Communication
+            Executive, Digital Marketing & Brand Communication
             </h5>
             <span className="w-full text-lg md:text-xl mb-4 text-ternary-dark dark:text-ternary-light flex items-center  gap-2">
               <BiSolidShoppingBagAlt />
-              Assign Realtor Ltd. | Icon Centre, 57/4 Progati Sharani, Dhaka | July 2024 –  Present || Onsite
+              Assign Holdings & Realtor Ltd | Icon Centre, 57/4 Progati Sharani, Dhaka |  8th July 2024 to 31th December 2025 | Onsite
             </span>
 
             <p className="w-full text-lg mt-3 text-ternary-dark dark:text-ternary-light">
