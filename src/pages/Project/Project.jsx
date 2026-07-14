@@ -1,15 +1,4 @@
 import "./Project.css";
-import { FaReact, FaHardHat } from "react-icons/fa";
-import {
-  SiExpress,
-  SiTailwindcss,
-  SiReactrouter,
-  SiMongodb,
-  SiNodedotjs,
-  SiFirebase,
-  SiReact,
-  SiReacttable,
-} from "react-icons/si";
 
 const Project = () => {
   return (
@@ -189,7 +178,7 @@ const Project = () => {
                 <div className="project_videocontainer">
                   <div>
                     <img
-                      src="https://i.ibb.co/0yCVc1k/ads-boosting.jpg"
+                      src="https://www.behance.net/gallery/231256305/Digital-marketing-services-for-various-companies?platform=direct"
                       alt="Digital Marketing"
                     />
                   </div>
@@ -201,7 +190,7 @@ const Project = () => {
 
                   <div>
                     <a
-                      href="https://ibb.co/0yCVc1k"
+                      href="https://www.behance.net/gallery/231256305/Digital-marketing-services-for-various-companies?platform=direct"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -232,7 +221,7 @@ const Project = () => {
 
                   <div>
                     <a
-                      href="https://ibb.co/V3tjHN4"
+                      href="https://www.behance.net/gallery/231256305/Digital-marketing-services-for-various-companies?platform=direct"
                       target="_blank"
                       rel="noreferrer"
                     >

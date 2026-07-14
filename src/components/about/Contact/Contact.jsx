@@ -8,7 +8,6 @@ const Contact = () => {
 
             <ul className="w-full">
                 <li className="w-full mb-2 flex flex-col sm:flex-row">
-                    <h5 className="text-xl text-ternary-dark dark:text-ternary-light"></h5>
                     <div className="flex-1 ml-8">
                         <h5 className="w-full text-xl text-ternary-dark dark:text-ternary-light sm:text-3xl md:text-4xl lg:text-5xl">
                             Feel free to contact me at <br />

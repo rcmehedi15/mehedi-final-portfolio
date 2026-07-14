@@ -1,9 +1,6 @@
-import React, { useContext } from 'react';
-import AboutMeContext from '../../../context/AboutMeContext';
-import { Link } from 'react-scroll';
+import React from 'react';
 
 const Experiences = () => {
-    const { aboutEducation } = useContext(AboutMeContext);
 
     return (
         <div className='container mx-auto'>

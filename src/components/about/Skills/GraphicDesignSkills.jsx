@@ -2,7 +2,6 @@ import React from 'react';
 import photoshop from '../../../assets/skills/photoshop.png'
 import illustrator from '../../../assets/skills/illustrator.svg'
 import Figma from '../../../assets/skills/Figma.svg'
-import xd from '../../../assets/skills/xd.svg'
 
 
 const GraphicDesignSkills = () => {

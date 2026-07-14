@@ -1,8 +1,6 @@
-import React, { useContext } from "react";
-import AboutMeContext from "../../../context/AboutMeContext";
+import React from "react";
 
 const ProfessionalTraining = () => {
-  const { aboutProfessionalTraining } = useContext(AboutMeContext);
 
   return (
     <div className="container mx-auto">

@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import AppBanner from '../components/shared/AppBanner';
 import Project from './Project/Project';
 

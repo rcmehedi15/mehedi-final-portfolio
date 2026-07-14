@@ -1,5 +1,4 @@
-import React, { useContext } from 'react';
-import AboutMeContext from '../../../context/AboutMeContext';
+import React from 'react';
 import html from '../../../assets/skills/html.png'
 import css from '../../../assets/skills/css.png'
 import tailwind from '../../../assets/skills/tailwind.png'
@@ -10,13 +9,8 @@ import react from '../../../assets/skills/react.png'
 import mongodb from '../../../assets/skills/mongodb.png'
 import mui from '../../../assets/skills/mui.png'
 import next from '../../../assets/skills/next.png'
-import formik from '../../../assets/skills/formik.png'
 import node from '../../../assets/skills/node.png'
-import redux from '../../../assets/skills/redux.png'
-import sass from '../../../assets/skills/sass.png'
-import ts from '../../../assets/skills/ts.png'
 import dj from '../../../assets/skills/dj.png'
-import socket from '../../../assets/skills/socket.png'
 import MySQL from '../../../assets/skills/MySQL.png'
 import Python from '../../../assets/skills/Python.png'
 import GraphicDesignSkills from './GraphicDesignSkills';
@@ -24,7 +18,6 @@ import VideoEditing from './VideoEditing';
 import DigitalMarketing from './DigitalMarketing';
 
 const Skills = () => {
-    const { aboutSkills } = useContext(AboutMeContext);
 
     return (
         <div className='container mx-auto text-ternary-dark dark:text-ternary-light text-lg'>

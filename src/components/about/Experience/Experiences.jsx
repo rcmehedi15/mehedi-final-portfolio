@@ -1,9 +1,7 @@
-import React, { useContext } from "react";
-import AboutMeContext from "../../../context/AboutMeContext";
+import React from "react";
 import { BiSolidShoppingBagAlt } from "react-icons/bi";
 
 const Experiences = () => {
-  const { aboutExperience } = useContext(AboutMeContext);
 
   return (
     <div className="container mx-auto">

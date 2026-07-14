@@ -1,6 +1,4 @@
 import React from 'react';
-import facebook from '../../../assets/skills/digitalMarketing/facebook.png'
-import instagram from '../../../assets/skills/digitalMarketing/instagram.png'
 import seo from '../../../assets/skills/digitalMarketing/seo.png'
 import google from '../../../assets/skills/digitalMarketing/google.png'
 import meta from '../../../assets/skills/digitalMarketing/meta.png'
