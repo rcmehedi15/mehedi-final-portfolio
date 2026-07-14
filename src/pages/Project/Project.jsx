@@ -178,7 +178,7 @@ const Project = () => {
                 <div className="project_videocontainer">
                   <div>
                     <img
-                      src="https://www.behance.net/gallery/231256305/Digital-marketing-services-for-various-companies?platform=direct"
+                      src="https://i.ibb.co/0yCVc1k/ads-boosting.jpg"
                       alt="Digital Marketing"
                     />
                   </div>
